@@ -1,7 +1,7 @@
 
 import './App.css'
 import quotes from './quotes.json'
-import Author from './components/author';
+import Author from './components/Author';
 import ContentQuotes from './components/ContentQuotes';
 import Button from './components/Button';
 import { useState } from 'react';
